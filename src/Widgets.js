@@ -44,6 +44,12 @@ function Widgets() {
         "Arkad Reveals Why He Chose To Marry His Ex",
         "Top News - 1800 Readers"
       )}
+      {newsArticle(
+        'Two Murders Happened in "Save A Life Foundation"',
+        "Top News - 12000 Readers"
+      )}
+      {newsArticle("THE RAPTURE!!!", "Top News - 1800000 Readers")}
+      {newsArticle(".....")}
     </div>
   );
 }

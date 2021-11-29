@@ -6,7 +6,7 @@
   border-radius: 10px;
   border: 1px solid lightgray;
   height: fit-content;
-  border-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 .widgets_header {
