@@ -22,7 +22,7 @@ function Widgets() {
         <h2>LinkedIn News</h2>
         <InfoIcon />
       </div>
-      {newsArticle("PAPA REAACT IS BACK!!", "Top News - 800 Readers")}
+      {newsArticle("PAPA REACT IS BACK!!", "Top News - 800 Readers")}
       {newsArticle("Check Out Irom's Podcasts", "Top News - 7500 Views")}
       {newsArticle(
         "Irom Has Adamantly Refused To Go To a Nigerian Institution",
